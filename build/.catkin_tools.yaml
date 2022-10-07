@@ -1,0 +1,6 @@
+devel_space: /home/sequoyah/ROS/catkin_ws/src/husky_vio/devel
+install: false
+install_space: /home/sequoyah/ROS/catkin_ws/src/husky_vio/install
+profile: default
+source_space: /home/sequoyah/ROS/catkin_ws/src/husky_vio/src
+workspace: /home/sequoyah/ROS/catkin_ws/src/husky_vio
